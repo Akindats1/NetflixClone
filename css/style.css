@@ -1,0 +1,154 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/5aecc44d-2a1f-4313-8399-98df20908b64/fe0d3631-4584-47e4-9cd7-ed68ba375830/NG-en-20221114-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    height: 95vh;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    
+}
+.header-container {
+    background: rgba(0,0,0,.4);
+    height: 95vh;
+    background-image: linear-gradient(0deg, rgba(0,0,0,.8) 0, transparent 60%, rgba(0,0,0, .8));
+    
+
+} 
+.first_child {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 0.5em 3em 3em 3em;
+}
+.header-container .first_child p {
+    font-size: 3em;
+    color: rgb(216, 24, 24);
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+.header-container .first_child a {
+    text-decoration: none;
+    color: white;
+    background-color:rgb(216, 24, 24);
+    padding: .4em 1em;
+    border-radius: 2px;
+}
+  .header-container .second_child{
+    text-align: center;
+}
+.header-container .second_child h1 {
+    font-size: 80px;
+    
+}
+.header-container .second_child p {
+    font-size: xx-large;
+}
+.header-container .second_child small {
+    font-size: large;
+}
+
+
+.header-container .third_child input {
+    scroll-margin-right: 20px;
+    padding: 15px;
+    width:150mm;
+    height: 5mm;
+}
+.header-container .third_child a {
+    text-decoration: none;
+    color: white;
+    background-color:rgb(216, 24, 24);
+    padding: 17px;
+    width:150mm;
+    height: 10mm;
+}
+
+.fourth_child {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0.5em 4em 3em 4em;
+    margin: 3em;
+}
+.fourth_child p {
+    font-size: x-large;
+   
+}
+.fourth_child h1 {
+    font-size: xxx-large;
+}
+.border {
+    background-color: darkgray;
+    width: 100%;
+    height: 3mm;
+}
+.section_size {
+    width: 100%;
+    height: 150mm;
+}
+.fifth_child {
+    size-adjust: 10px;
+    width: 45%;
+}
+.sixth_child {
+    display: block;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 3em;
+    padding:0% 10% 10%  10%;
+}
+.sixth_child h1{
+    font-size: xxx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.sixth_child p {
+    font-size: x-large;
+    font-style: oblique;
+  
+}
+.second_section_size {
+    width: 100%;
+    height: 55mm;
+} 
+
+.section_5 {
+    border: ridge;
+    border-color: rgb(84, 85, 86);
+    border: 25px 0 30px 0;
+}
+.section_container {
+    text-align: center;
+    margin: 0 400px 0 450px;
+    padding:  5px;
+}
+.section_container h1 {
+    font-size: xxx-large;
+}
+.section_container p {
+    background-color: rgb(84, 85, 86);
+    color: azure;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    margin: 0 50px 20px 50px;
+    padding: 20px;
+}
+
+
+
+
+ 
+
+
+
